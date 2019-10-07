@@ -137,8 +137,7 @@ $args = array(
 ```
 
 ### Alpha component of color
-#### The alpha component of color is not taken into account if 'anti-aliasing'
-is turned on.
+#### The alpha component of color is not taken into account if 'anti-aliasing' is turned on.
 ```php
 /**setting semitransparent background**/
 $args = array(
